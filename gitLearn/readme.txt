@@ -4,3 +4,7 @@ use git is a great habbit!
 2019 go on!
 
 git has a mutable index called stage.
+
+
+git tracks changes of files.
+
