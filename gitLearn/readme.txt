@@ -6,5 +6,5 @@ use git is a great habbit!
 git has a mutable index called stage.
 
 
-git tracks changes of all files 2 3.
+git tracks changes of all files 2 3 4.
 
